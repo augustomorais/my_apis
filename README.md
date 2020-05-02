@@ -1,2 +1,2 @@
-# Api using symofony and docker
+# Api using symfony and docker
 Repository for Rest api examples
